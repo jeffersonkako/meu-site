@@ -9,31 +9,31 @@
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://skillicons.dev/icons?i=html"
       },
       {
         "name": "Css",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://skillicons.dev/icons?i=css"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://skillicons.dev/icons?i=html"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://skillicons.dev/icons?i=react"
       },
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://skillicons.dev/icons?i=nodejs"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/data/imgs/git.png"
+        "logo": "https://skillicons.dev/icons?i=git"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+        "logo": "https://skillicons.dev/icons?i=github"
       }
     ],
     "softSkills": [
@@ -47,8 +47,8 @@
   "languages": ["Português BR", "Inglês (Basico)"],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex",
-      "url": "https://github.com/jeffersonkako/pokedex",
+      "name": "Em atualização",
+      "url": "",
       "github": true
     }
   ],
