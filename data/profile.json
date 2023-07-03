@@ -37,6 +37,10 @@
       },
       {
         "name": "Nodejs",
+        "logo": "https://skillicons.dev/icons?i=bootstrap"
+      },
+      {
+        "name": "Nodejs",
         "logo": "https://skillicons.dev/icons?i=tailwind"
       },
       {
@@ -54,7 +58,12 @@
       {
         "name": "GitHub",
         "logo": "https://skillicons.dev/icons?i=github"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://skillicons.dev/icons?i=python"
       }
+      
     ],
     "softSkills": [
       "Empatia",
