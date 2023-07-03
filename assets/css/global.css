@@ -1,11 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
-}
-
-@font-face {
-  font-family: "Neue Machina";
-  src: url("../fonts/neue-machina-regular.otf");
+  font-family: "Play", sans-serif;
 }
 
 body {
@@ -25,8 +20,9 @@ a:hover {
 .main {
   margin: 1rem;
   padding: 1rem;
-  border: 1px solid #fff;
   border-radius: 1rem;
+  background: #111113;
+  box-shadow: 1px 2px 16px black;
 }
 
 .main::before,
@@ -63,4 +59,62 @@ a:hover {
   .main::after {
     width: 70vw;
   }
+}
+
+.social-menu ul {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  padding: 0;
+  margin: 0;
+  transform: translate(-50%, -50%);
+  display: flex;
+}
+
+.social-menu ul li {
+  list-style: none;
+  margin: 0 8px;
+}
+
+.social-menu ul li .fab {
+  font-size: 35px;
+  line-height: 60px;
+  transition: 0.3s;
+  color: #edecee;
+}
+
+.social-menu ul li .fab:hover {
+  color: #edecee;
+}
+
+.social-menu ul li a {
+  position: relative;
+  display: block;
+  width: 60px;
+  height: 60px;
+  border-radius: 40%;
+  background-color: #2a2a2a;
+  text-align: center;
+  transition: 0.6s;
+  box-shadow: 0 5px 4px black;
+}
+
+.social-menu ul li a:hover {
+  transform: translate(0, -10%);
+}
+
+.social-menu ul li:nth-child(1) a:hover {
+  background-color: #353051;
+}
+.social-menu ul li:nth-child(2) a:hover {
+  background-color: #353051;
+}
+.social-menu ul li:nth-child(3) a:hover {
+  background-color: #353051;
+}
+.social-menu ul li:nth-child(4) a:hover {
+  background-color: #353051;
+}
+.social-menu ul li:nth-child(5) a:hover {
+  background-color: #353051;
 }
