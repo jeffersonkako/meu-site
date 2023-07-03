@@ -20,7 +20,7 @@ a:hover {
 .main {
   margin: 1rem;
   padding: 1rem;
-  border-radius: 1rem;
+  border-radius: 2rem;
   background: #111113;
   box-shadow: 1px 2px 16px black;
 }
