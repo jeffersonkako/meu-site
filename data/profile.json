@@ -29,11 +29,23 @@
       },
       {
         "name": "Nodejs",
-        "logo": "https://skillicons.dev/icons?i=tailwind"
+        "logo": "https://skillicons.dev/icons?i=next"
       },
       {
         "name": "Nodejs",
         "logo": "https://skillicons.dev/icons?i=nodejs"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://skillicons.dev/icons?i=tailwind"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://skillicons.dev/icons?i=figma"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://skillicons.dev/icons?i=vscode"
       },
       {
         "name": "Git",
@@ -64,17 +76,17 @@
     {
       "name": "Gerente Corporativo / DEKRA",
       "period": "2017 - até o momento",
-      "description": "Gerencio a unidade DEKRA no estado do Ceará."
+      "description": ""
     },
     {
       "name": "Gerente de contas / Zurich Seguros",
       "period": "2011 - 2016",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com o atendimento dessa seguradora ao mercado."
+      "description": ""
     },
     {
       "name": "Administrativo / RDOP Ltda",
       "period": "2008 - 2011",
-      "description": "Inicio no mercardo de trabalho."
+      "description": ""
     }
   ]
 }
