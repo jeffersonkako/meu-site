@@ -20,7 +20,7 @@
         "logo": "https://skillicons.dev/icons?i=javascript"
       },
       {
-        "name": "JavaScript",
+        "name": "TypeScript",
         "logo": "https://skillicons.dev/icons?i=ts"
       },
       {
@@ -28,7 +28,7 @@
         "logo": "https://skillicons.dev/icons?i=react"
       },
       {
-        "name": "Nodejs",
+        "name": "Next",
         "logo": "https://skillicons.dev/icons?i=next"
       },
       {
@@ -36,19 +36,19 @@
         "logo": "https://skillicons.dev/icons?i=nodejs"
       },
       {
-        "name": "Nodejs",
+        "name": "Bootstrap",
         "logo": "https://skillicons.dev/icons?i=bootstrap"
       },
       {
-        "name": "Nodejs",
+        "name": "Tailwind",
         "logo": "https://skillicons.dev/icons?i=tailwind"
       },
       {
-        "name": "Nodejs",
+        "name": "Figma",
         "logo": "https://skillicons.dev/icons?i=figma"
       },
       {
-        "name": "Nodejs",
+        "name": "VsCode",
         "logo": "https://skillicons.dev/icons?i=vscode"
       },
       {
@@ -60,7 +60,7 @@
         "logo": "https://skillicons.dev/icons?i=github"
       },
       {
-        "name": "GitHub",
+        "name": "Python",
         "logo": "https://skillicons.dev/icons?i=python"
       }
     ],
