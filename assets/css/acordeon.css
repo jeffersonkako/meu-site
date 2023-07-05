@@ -11,10 +11,10 @@
 }
 
 .open {
-  background-color: #353051;
+  background-color: #1c1c1c;
 }
 .acordeon:hover {
-  background-color: #353051;
+  background-color: #1c1c1c;
 }
 
 .acordeon .trigger {
