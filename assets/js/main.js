@@ -34,7 +34,7 @@ function updateHardSkills(profileData) {
 
 function updateFormacao(profileData) {
     const formacao = document.getElementById('profile.formacao')
-formacao.innerHTML = profileData.languages.map(form => `<li>${form}</li>`).join('')
+formacao.innerHTML = profileData.formacao.map(form => `<li>${form}</li>`).join('')
 }
 
 function updatePortfolio(profileData) {
