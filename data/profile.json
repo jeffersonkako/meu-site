@@ -74,7 +74,12 @@
       "Resolução de problemas"
     ]
   },
-  "languages": ["Português BR", "Inglês (Básico)"],
+  "formacao": [
+    "Desenvolvimento Full Stack - Universidade Estacio",
+    "Formação Full Stack - Rocketseat",
+    "Formação Full Stack JavaScript - One Bit Code",
+    "Formação Front-End - Alura"
+  ],
   "portfolio": [
     {
       "name": "Em atualização",
