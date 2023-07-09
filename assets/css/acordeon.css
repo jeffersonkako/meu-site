@@ -65,7 +65,7 @@
 
 .acordeon.open .content {
   display: block;
-  padding: 0 1rem 1rem 2rem;
+  padding: 0 1rem 1rem 2cqmax;
   height: auto;
   opacity: 1;
 }
