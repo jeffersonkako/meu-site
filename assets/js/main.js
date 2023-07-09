@@ -34,7 +34,7 @@ function updateHardSkills(profileData) {
 
 function updateFormacao(profileData) {
     const formacao = document.getElementById('profile.formacao')
-    formacao.innerHTML = profileData.formacao.map(form => `<li>${form}</li>`).join('')
+formacao.innerHTML = profileData.formacao.map(form => `<li>${form}</li>`).join('')
 }
 
 function updatePortfolio(profileData) {
@@ -43,12 +43,8 @@ function updatePortfolio(profileData) {
         return `
             <li>
                 <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
-                <ul>
-                <li><a href="${project.url}" target="_blank">${project.url}</a></li>
-                <li><a href="${project.link}" target="_blank">${project.link}</a></li>
-
-                
-                
+                <a href="${project.url}" target="_blank">${project.url}</a>
+                <a href="${project.link}" target="_blank">${project.link}</a>
             </li>
         `
     }).join('')
