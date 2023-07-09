@@ -26,7 +26,8 @@
 
 .header .title {
   text-align: center;
-  color: #03dac5;
+  /* color: #03dac5; */
+  color: #fff
 }
 
 .information {
