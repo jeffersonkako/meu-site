@@ -84,8 +84,9 @@
   ],
   "portfolio": [
     {
-      "name": "Em atualização",
-      "url": "",
+      "name": "Tasks",
+      "url": "https://github.com/jeffersonkako/tasks-estacio",
+      "link": "https://tasks-estacio.vercel.app/",
       "github": true
     }
   ],
