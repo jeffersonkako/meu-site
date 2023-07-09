@@ -88,6 +88,24 @@
       "url": "https://github.com/jeffersonkako/tasks-estacio",
       "link": "https://tasks-estacio.vercel.app/",
       "github": true
+    },
+    {
+      "name": "Site Pessoal",
+      "url": "https://github.com/jeffersonkako/meu-site",
+      "link": "https://jefferson.dev",
+      "github": true
+    },
+    {
+      "name": "Site DEKRA - em atualização",
+      "url": "",
+      "link": "",
+      "github": true
+    },
+    {
+      "name": "em atualização",
+      "url": "",
+      "link": "",
+      "github": true
     }
   ],
   "professionalExperience": [
