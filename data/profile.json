@@ -86,25 +86,43 @@
     {
       "name": "Tasks",
       "url": "https://github.com/jeffersonkako/tasks-estacio",
+      "description": "Next.js, React.js, TypeScript, TailwindCSS",
       "link": "https://tasks-estacio.vercel.app/",
       "github": true
     },
     {
       "name": "Site Pessoal",
       "url": "https://github.com/jeffersonkako/meu-site",
+      "description": "html, css, javascript",
       "link": "https://jefferson.dev",
       "github": true
     },
     {
-      "name": "Site DEKRA - em atualização",
-      "url": "",
+      "name": "Pokedex",
+      "url": "https://github.com/jeffersonkako/pokedex",
+      "description": "html, css, javascript, API",
+      "link": "https://pokedex-js-kako.vercel.app/",
+      "github": true
+    },
+    {
+      "name": "CRUD",
+      "url": "https://github.com/jeffersonkako/Mundo1-MC-Python",
+      "description": "Python, PySimpleGUI, OpenPyXl",
       "link": "",
       "github": true
     },
     {
-      "name": "em atualização",
-      "url": "",
-      "link": "",
+      "name": "Receitas do zé",
+      "url": "https://github.com/jeffersonkako/Site-Receitas-Nv1-Estacio",
+      "description": "Html, Css, Bootstrap",
+      "link": "https://receitasdoze.vercel.app/",
+      "github": true
+    },
+    {
+      "name": "Tabela DEKRA",
+      "url": "https://github.com/jeffersonkako/tabela-dkc",
+      "description": "Html, Css, Javascript",
+      "link": "https://tabeladkc.vercel.app",
       "github": true
     }
   ],
