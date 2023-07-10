@@ -44,7 +44,7 @@ function updatePortfolio(profileData) {
             <li>
                 <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
                 <a href="${project.url}" target="_blank">${project.url}</a>
-                <p>${project.description}</p>
+                <p class="desc-port">${project.description}</p>
                 <a href="${project.link}" target="_blank">${project.link}</a>
             </li>
         `

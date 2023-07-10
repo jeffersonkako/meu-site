@@ -35,3 +35,7 @@
     background-image: url('../img/icons/github.svg');
     margin-right: .5rem;
 }
+
+.desc-port {
+    color: #4e467f;
+}
