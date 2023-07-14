@@ -3,7 +3,6 @@
   "photo": "https://github.com/jeffersonkako.png",
   "job": "Full-Stack Developer",
   "location": "Ceará, Brasil",
-  "phone": "(85) 98892-1914",
   "email": "jeffersondev@icloud.com",
   "skills": {
     "hardSkills": [
@@ -76,7 +75,6 @@
   },
   "formacao": [
     "Desenvolvimento Full Stack - Universidade Estacio",
-    "Formação Full Stack - Rocketseat",
     "Formação Full Stack JavaScript - One Bit Code",
     "Formação Front-End UI/UX Design - Origamid",
     "Formação Front-End - Alura",
@@ -128,7 +126,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Front-End Developer / Freelance",
+      "name": "Full-stack Developer / Freelance",
       "period": "2022 - até o momento",
       "description": ""
     },
