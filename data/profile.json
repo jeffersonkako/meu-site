@@ -35,18 +35,6 @@
         "logo": "https://skillicons.dev/icons?i=nodejs"
       },
       {
-        "name": "Figma",
-        "logo": "https://skillicons.dev/icons?i=figma"
-      },
-      {
-        "name": "VsCode",
-        "logo": "https://skillicons.dev/icons?i=vscode"
-      },
-      {
-        "name": "Git",
-        "logo": "https://skillicons.dev/icons?i=git"
-      },
-      {
         "name": "Java",
         "logo": "https://skillicons.dev/icons?i=java"
       },
@@ -69,6 +57,18 @@
       {
         "name": "Python",
         "logo": "https://skillicons.dev/icons?i=python"
+      },
+      {
+        "name": "Git",
+        "logo": "https://skillicons.dev/icons?i=git"
+      },
+      {
+        "name": "Figma",
+        "logo": "https://skillicons.dev/icons?i=figma"
+      },
+      {
+        "name": "VsCode",
+        "logo": "https://skillicons.dev/icons?i=vscode"
       }
     ],
     "softSkills": [
