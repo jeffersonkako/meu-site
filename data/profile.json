@@ -59,16 +59,16 @@
         "logo": "https://skillicons.dev/icons?i=python"
       },
       {
-        "name": "Git",
-        "logo": "https://skillicons.dev/icons?i=git"
-      },
-      {
         "name": "Figma",
         "logo": "https://skillicons.dev/icons?i=figma"
       },
       {
         "name": "VsCode",
         "logo": "https://skillicons.dev/icons?i=vscode"
+      },
+      {
+        "name": "Git",
+        "logo": "https://skillicons.dev/icons?i=git"
       }
     ],
     "softSkills": [
