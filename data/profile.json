@@ -31,8 +31,8 @@
         "logo": "https://skillicons.dev/icons?i=next"
       },
       {
-        "name": "Nodejs",
-        "logo": "https://skillicons.dev/icons?i=nodejs"
+        "name": "Git",
+        "logo": "https://skillicons.dev/icons?i=git"
       },
       {
         "name": "Java",
@@ -49,10 +49,9 @@
       {
         "name": "PostgreSQL",
         "logo": "https://skillicons.dev/icons?i=postgresql"
-      },
-      {
-        "name": "Git",
-        "logo": "https://skillicons.dev/icons?i=git"
+      },{
+        "name": "Nodejs",
+        "logo": "https://skillicons.dev/icons?i=nodejs"
       },
       {
         "name": "Figma",
