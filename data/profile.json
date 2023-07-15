@@ -55,8 +55,8 @@
         "logo": "https://skillicons.dev/icons?i=postgresql"
       },
       {
-        "name": "Python",
-        "logo": "https://skillicons.dev/icons?i=python"
+        "name": "Git",
+        "logo": "https://skillicons.dev/icons?i=git"
       },
       {
         "name": "Figma",
@@ -65,10 +65,6 @@
       {
         "name": "VsCode",
         "logo": "https://skillicons.dev/icons?i=vscode"
-      },
-      {
-        "name": "Git",
-        "logo": "https://skillicons.dev/icons?i=git"
       }
     ],
     "softSkills": [
