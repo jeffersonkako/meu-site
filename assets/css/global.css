@@ -6,6 +6,9 @@
 body {
   background-color: #000;
   color: #edecee;
+  background-image: url("../img/fundojeff.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
@@ -21,22 +24,17 @@ a:hover {
   margin: 1rem;
   padding: 1rem;
   border-radius: 2rem;
-  background: #111113;
+  background: #1a1a1a;
   box-shadow: 1px 2px 16px black;
 }
 
 .main::before,
 .main::after {
   content: "";
-  background-image: url("../img/bg.jpeg");
-  background-repeat: no-repeat;
-  background-size: cover;
   display: inline-block;
   position: fixed;
   top: 0;
   left: 0;
-  width: 140vw;
-  height: 100vh;
   z-index: -1;
 }
 
