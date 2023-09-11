@@ -15,7 +15,7 @@ const escrever = () => {
         nome.innerHTML += '|'
 
         index++
-        setTimeout(escrever, 100)
+        setTimeout(escrever, 50)
     }
 }
 
