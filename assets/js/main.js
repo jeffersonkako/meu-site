@@ -23,8 +23,8 @@ function updateProfileInfo(profileData) {
 }
 
 function updateStudyingSkills(profileData) {
-    const StudyingSkills = document.getElementById('profile.skills.StudyingSkills')
-    StudyingSkills.innerHTML = profileData.skills.StudyingSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
+    const studyingSkills = document.getElementById('profile.skills.studyingSkills')
+    studyingSkills.innerHTML = profileData.skills.studyingSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
 }
 
 function updateHardSkills(profileData) {
