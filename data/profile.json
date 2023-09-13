@@ -55,6 +55,10 @@
       {
         "name": "Firebase",
         "logo": "https://skillicons.dev/icons?i=firebase"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://skillicons.dev/icons?i=docker"
       }
     ]
   },
