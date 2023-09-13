@@ -29,6 +29,10 @@
       {
         "name": "Next",
         "logo": "https://skillicons.dev/icons?i=next"
+      },
+      {
+        "name": "Tailwind",
+        "logo": "https://skillicons.dev/icons?i=tailwind"
       }
     ],
     "studyingSkills": [
@@ -47,6 +51,10 @@
       {
         "name": "Flutter",
         "logo": "https://skillicons.dev/icons?i=flutter"
+      },
+      {
+        "name": "Firebase",
+        "logo": "https://skillicons.dev/icons?i=firebase"
       }
     ]
   },
