@@ -29,21 +29,9 @@
       {
         "name": "Next",
         "logo": "https://skillicons.dev/icons?i=next"
-      },
-      {
-        "name": "Git",
-        "logo": "https://skillicons.dev/icons?i=git"
-      },
-      {
-        "name": "Figma",
-        "logo": "https://skillicons.dev/icons?i=figma"
-      },
-      {
-        "name": "VsCode",
-        "logo": "https://skillicons.dev/icons?i=vscode"
       }
     ],
-    "softSkills": [
+    "studyingSkills": [
       {
         "name": "Java",
         "logo": "https://skillicons.dev/icons?i=java"

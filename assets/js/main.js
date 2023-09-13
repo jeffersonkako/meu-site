@@ -22,9 +22,9 @@ function updateProfileInfo(profileData) {
     email.href = `mailto:${profileData.email}`
 }
 
-function updateSoftSkills(profileData) {
-    const softSkills = document.getElementById('profile.skills.softSkills')
-    softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
+function updateStudyingSkills(profileData) {
+    const studyingSkills = document.getElementById('profile.skills.studyingSkills')
+    studyingSkills.innerHTML = profileData.skills.studyingSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
 }
 
 function updateHardSkills(profileData) {
@@ -67,7 +67,7 @@ function updateProfessionalExperience(profileData) {
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
-    updateSoftSkills(profileData)
+    updateStudyingSkills(profileData)
     updateHardSkills(profileData)
     updateFormacao(profileData)
     updatePortfolio(profileData)
