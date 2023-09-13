@@ -35,6 +35,16 @@
         "logo": "https://skillicons.dev/icons?i=git"
       },
       {
+        "name": "Figma",
+        "logo": "https://skillicons.dev/icons?i=figma"
+      },
+      {
+        "name": "VsCode",
+        "logo": "https://skillicons.dev/icons?i=vscode"
+      }
+    ],
+    "StudyingSkills": [
+      {
         "name": "Java",
         "logo": "https://skillicons.dev/icons?i=java"
       },
@@ -49,28 +59,7 @@
       {
         "name": "Flutter",
         "logo": "https://skillicons.dev/icons?i=flutter"
-      },
-      {
-        "name": "Nodejs",
-        "logo": "https://skillicons.dev/icons?i=nodejs"
-      },
-      {
-        "name": "Figma",
-        "logo": "https://skillicons.dev/icons?i=figma"
-      },
-      {
-        "name": "VsCode",
-        "logo": "https://skillicons.dev/icons?i=vscode"
       }
-    ],
-    "softSkills": [
-      "Criatividade",
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização",
-      "Resolução de problemas"
     ]
   },
   "formacao": [
