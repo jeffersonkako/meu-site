@@ -68,7 +68,7 @@
     "Formação Full Stack JavaScript - One Bit Code",
     "Formação Front-End UI/UX Design - Origamid",
     "Formação Front-End - Alura",
-    "Formação Python - Alura"
+    "Formação Mobile Flutter - Alura"
   ],
   "portfolio": [
     {
@@ -116,9 +116,14 @@
   ],
   "professionalExperience": [
     {
+      "name": "Mobile Developer / BeeCoders",
+      "period": "2023 - até o momento",
+      "description": " Dart | Flutter"
+    },
+    {
       "name": "Full-stack Developer / Freelance",
       "period": "2022 - até o momento",
-      "description": ""
+      "description": "Html, Css, JS, TS, React, Nextjs, TailwindCSS"
     },
     {
       "name": "Gerente Corporativo / DEKRA",
